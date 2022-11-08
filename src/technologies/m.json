@@ -38,11 +38,6 @@
     "cookies": {
       "frontend": ""
     },
-    "dom": {
-      "script[type='text/x-magento-init']": {
-        "exists": ""
-      }
-    },
     "icon": "Magento.svg",
     "implies": [
       "Magento\\;version:1"
