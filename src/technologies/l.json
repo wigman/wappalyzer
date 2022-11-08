@@ -1678,12 +1678,11 @@
     },
     "icon": "Magento.svg",
     "implies": [
-      "Magento\\;version:2"
+      "Magento\\;version:2",
+      "RequireJS",
+      "Knockout.js",
+      "jQuery"
     ],
-    "js": {
-      "Mage": "",
-      "VarienForm": ""
-    },
     "oss": true,
     "scriptSrc": [
       "requirejs-config\\.js",
