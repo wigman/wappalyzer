@@ -30,6 +30,35 @@
     "saas": true,
     "website": "https://ma-jin.jp"
   },
+  "Magento 1 Theme": {
+    "cats": [
+      108
+    ],
+    "description": "The standard Magento 1 frontend theme",
+    "cookies": {
+      "frontend": ""
+    },
+    "dom": {
+      "script[type='text/x-magento-init']": {
+        "exists": ""
+      }
+    },
+    "icon": "Magento.svg",
+    "implies": [
+      "Magento\\;version:1"
+      "Prototype",
+      "jQuery"
+    ],
+    "js": {
+      "Mage": "",
+      "VarienForm": ""
+    },
+    "oss": true,
+    "scriptSrc": [
+      "skin/frontend/(?:default|(enterprise))",
+    ],
+    "website": "https://www.openmage.org/"
+  },
   "MATORI.NET": {
     "cats": [
       64
