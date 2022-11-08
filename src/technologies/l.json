@@ -1659,6 +1659,37 @@
     },
     "website": "https://www.luigisbox.com"
   },
+  "Luma Theme": {
+    "cats": [
+      108
+    ],
+    "description": "Luma is the standard Magento 2 / Adobe Commerce frontend template.",
+    "cookies": {
+      "X-Magento-Vary": "",
+      "mage-cache-storage": "",
+      "mage-cache-storage-section-invalidation": "",
+      "mage-translation-file-version": "",
+      "mage-translation-storage": ""
+    },
+    "dom": {
+      "script[type='text/x-magento-init']": {
+        "exists": ""
+      }
+    },
+    "icon": "Magento.svg",
+    "implies": [
+      "Magento\\;version:2"
+    ],
+    "js": {
+      "Mage": "",
+      "VarienForm": ""
+    },
+    "oss": true,
+    "scriptSrc": [
+      "requirejs-config\\.js",
+    ],
+    "website": "https://github.com/magento/magento2"
+  },
   "Luna": {
     "cats": [
       105
