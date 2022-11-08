@@ -1685,7 +1685,7 @@
     ],
     "oss": true,
     "scriptSrc": [
-      "requirejs-config\\.js",
+      "requirejs-config\\.js"
     ],
     "website": "https://github.com/magento/magento2"
   },
