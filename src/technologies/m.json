@@ -40,7 +40,7 @@
     },
     "icon": "Magento.svg",
     "implies": [
-      "Magento\\;version:1"
+      "Magento\\;version:1",
       "Prototype",
       "jQuery"
     ],
@@ -50,7 +50,7 @@
     },
     "oss": true,
     "scriptSrc": [
-      "skin/frontend/(?:default|(enterprise))",
+      "skin/frontend/(?:default|(enterprise))"
     ],
     "website": "https://www.openmage.org/"
   },
